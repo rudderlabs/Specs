@@ -19,7 +19,5 @@ Pod::Spec.new do |s|
   s.osx.deployment_target = '10.13'
     
   s.source_files = 'Sources/**/*.swift'
-
-  s.dependency 'RudderKit'
   
 end
